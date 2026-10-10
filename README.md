@@ -1,3 +1,15 @@
+> ### 🔖 เกี่ยวกับ repo นี้
+>
+> นี่คือ**เวอร์ชันพัฒนาต่อยอด (derivative work)** ของโปรเจกต์โอเพนซอร์ส
+> **[OpenChatCut](https://github.com/0xsline/OpenChatCut)** โดย **0xsline** — ไม่ใช่โปรเจกต์ต้นฉบับ
+>
+> ผมใช้ repo นี้เป็นพื้นที่เรียนรู้และพัฒนาฟีเจอร์ของตัวเอง
+> รายละเอียดเครดิตและสิ่งที่ผมแก้ไขทั้งหมดอยู่ใน **[ATTRIBUTION.md](ATTRIBUTION.md)**
+>
+> เผยแพร่ภายใต้สัญญาอนุญาตเดิม **AGPL-3.0**
+
+---
+
 <p align="center">
   <img src="public/openchatcut-icon.png" width="96" alt="OpenChatCut" />
 </p>
